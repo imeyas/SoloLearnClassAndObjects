@@ -1,0 +1,15 @@
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\bin\Debug\net6.0\SoloLearnClassAndObjects.exe
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\bin\Debug\net6.0\SoloLearnClassAndObjects.deps.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\bin\Debug\net6.0\SoloLearnClassAndObjects.runtimeconfig.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\bin\Debug\net6.0\SoloLearnClassAndObjects.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\bin\Debug\net6.0\ref\SoloLearnClassAndObjects.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\bin\Debug\net6.0\SoloLearnClassAndObjects.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\obj\Debug\net6.0\SoloLearnClassAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\obj\Debug\net6.0\SoloLearnClassAndObjects.AssemblyInfoInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\obj\Debug\net6.0\SoloLearnClassAndObjects.AssemblyInfo.cs
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\obj\Debug\net6.0\SoloLearnClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\obj\Debug\net6.0\SoloLearnClassAndObjects.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\obj\Debug\net6.0\ref\SoloLearnClassAndObjects.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\obj\Debug\net6.0\SoloLearnClassAndObjects.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\obj\Debug\net6.0\SoloLearnClassAndObjects.genruntimeconfig.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\SololearnClassAndObjects\SoloLearnClassAndObjects\SoloLearnClassAndObjects\obj\Debug\net6.0\SoloLearnClassAndObjects.csproj.AssemblyReference.cache
